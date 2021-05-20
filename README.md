@@ -1,4 +1,4 @@
-# Inter-Terminal-Chat
+# Inter-Terminal Chat
 
 In this project I implement a multi-level messaging architecture according to the figure below. 
 
